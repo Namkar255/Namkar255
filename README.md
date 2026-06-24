@@ -39,14 +39,14 @@
 
 ## 🚀 Projects
 
+### CP-Tracker 
+Full stack Project For Improving Coding Journey
+
 ### 🎮 Hand Gesture Game Controller
 Control games using hand gestures with OpenCV and MediaPipe.
 
 ### 🎨 Real-Time Color Detection
 Detect colors in real time using OpenCV and HSV masking.
-
-### 😀 Face Detection
-Face detection system using OpenCV.
 
 ---
 
