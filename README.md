@@ -1,10 +1,10 @@
-# Hi, I'm Namkar Jindal 👋
+# Hi there, I'm Namkar Jindal 👋
 
-🎓 ECE Undergraduate @ MNNIT Allahabad ('29)
+🎓 B.Tech Electronics & Communication Engineering @ MNNIT Allahabad (2029)
 
-💻 Competitive Programmer | 🚀 Aspiring Software Developer
+💻 Competitive Programmer | Full Stack Developer | Problem Solver
 
-🌱 Currently learning Full Stack Development & Machine Learning
+🚀 Passionate about building scalable web applications, solving algorithmic problems, and continuously learning new technologies.
 
 ---
 
@@ -19,62 +19,96 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### CP-Tracker 
-Full stack Project For Improving Coding Journey
+## 🚀 CP Tracker
 
-### 🎮 Hand Gesture Game Controller
-Control games using hand gestures with OpenCV and MediaPipe.
+A full-stack competitive programming tracker that helps users manage coding goals, track Codeforces & LeetCode profiles, save contests, and monitor progress.
 
-### 🎨 Real-Time Color Detection
-Detect colors in real time using OpenCV and HSV masking.
+**Tech Stack**
 
----
+- Node.js
+- Express.js
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
 
-## 📈 GitHub Stats
-
-![Namkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namkar255&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namkar255&layout=compact)
+🔗 **Repository:** https://github.com/Namkar255/CP-Tracker
 
 ---
 
-## 🎯 Current Goals
+## 🎮 Hand Gesture Game Controller
 
-- Reach Specialist on Codeforces
-- Solve 500+ LeetCode Problems
-- Build Full Stack Projects
-- Contribute to Open Source
-- Crack Top Software Engineering Internships
+Control PC games using real-time hand gesture recognition with MediaPipe and OpenCV.
 
 ---
 
-## 📫 Connect With Me
+## 🎨 Real-Time Color Detection
 
-- GitHub: https://github.com/Namkar255
-- LinkedIn: https://www.linkedin.com/in/namkar-jindal-0879343a8/
-- LeetCode: https://leetcode.com/u/namkar_jindal/
-- Codeforces: https://codeforces.com/profile/jindal_namkar
+Detect and track colors in real time using OpenCV and HSV masking.
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namkar255&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namkar255&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Namkar255&theme=tokyonight)
+
+---
+
+# 🎯 2026 Goals
+
+- ⭐ Reach Specialist on Codeforces
+- 💙 Solve 500+ LeetCode Problems
+- ⚛️ Learn React & Modern Frontend
+- 🌍 Contribute to Open Source
+- 🚀 Build More Full Stack Projects
+- 💼 Secure a Software Engineering Internship
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/namkar-jindal-0879343a8/
+- 💻 GitHub: https://github.com/Namkar255
+- 💙 LeetCode: https://leetcode.com/u/namkar_jindal/
+- 🟡 Codeforces: https://codeforces.com/profile/jindal_namkar
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
