@@ -12,10 +12,10 @@
 
 | Platform | Achievement | Profile |
 |----------|------------|----------|
-| Codeforces | Pupil (1342) | [Profile](https://codeforces.com/) |
-| CodeChef | 2 Star ⭐⭐ | [Profile](https://www.codechef.com/) |
-| LeetCode | 350+ Problems Solved | [Profile](https://leetcode.com/) |
-| AtCoder | Brown 🟤 | [Profile](https://atcoder.jp/) |
+| Codeforces | Pupil (1342) | [Profile](https://codeforces.com/profile/jinda_namkar) |
+| CodeChef | 2 Star ⭐⭐ | [Profile](https://www.codechef.com/users/namkar_jindal) |
+| LeetCode | 350+ Problems Solved | [Profile](https://leetcode.com/u/namkar_jindal) |
+| AtCoder | Brown 🟤 | [Profile](https://atcoder.jp/users/namkar_jindal) |
 
 ---
 
