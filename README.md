@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Namkar Jindal
+# 👋 Hey, I'm Namkar Jindal
 
 ### Competitive Programmer • Full Stack Developer • Computer Vision Enthusiast
 
-🎓 B.Tech ECE @ MNNIT Allahabad (2029)
+🎓 B.Tech Electronics & Communication Engineering @ **MNNIT Allahabad (2029)**
 
-Building software, solving algorithmic problems, and exploring real-time computer vision.
+*"Building projects that combine algorithms, web development, and real-time computer vision."*
 
-[LinkedIn](https://www.linkedin.com/in/namkar-jindal-0879343a8/) •
-[LeetCode](https://leetcode.com/u/namkar_jindal/) •
-[Codeforces](https://codeforces.com/profile/jinda_namkar) •
-[GitHub](https://github.com/Namkar255)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/namkar-jindal-0879343a8/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/namkar_jindal/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/jinda_namkar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Namkar255)
 
 </div>
 
@@ -19,117 +19,152 @@ Building software, solving algorithmic problems, and exploring real-time compute
 
 # 🚀 About Me
 
-- 💻 Solved **400+ DSA Problems**
-- 🏆 Codeforces **Pupil (1300+)**
-- ⭐ CodeChef **2 Star**
-- 🟤 AtCoder **Brown**
-- 🌱 Currently learning **React & Modern Backend**
-- 👨‍💻 Interested in Full Stack Development and Computer Vision
+```cpp
+class NamkarJindal {
+
+public:
+
+    string education = "B.Tech ECE @ MNNIT Allahabad";
+
+    vector<string> interests = {
+        "Competitive Programming",
+        "Full Stack Development",
+        "Computer Vision",
+        "Open Source"
+    };
+
+    vector<string> currentlyLearning = {
+        "React",
+        "Backend Development",
+        "Computer Vision"
+    };
+
+    string motto = "Learn → Build → Improve";
+};
+```
 
 ---
 
-# 🛠 Tech Arsenal
+# 🏆 Competitive Programming
+
+| Platform | Achievement |
+|-----------|-------------|
+| 🟡 Codeforces | **Pupil (Max Rating: 1342)** |
+| 🟤 CodeChef | **2★** |
+| 💙 LeetCode | **400+ Problems Solved** |
+| ⚪ AtCoder | **Brown** |
+
+---
+
+# ⚡ Tech Stack
 
 ### Languages
 
-`C++` `Python` `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+</p>
 
 ### Frontend
 
-`HTML` `CSS` `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
 
 ### Backend
 
-`Node.js` `Express.js`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
 ### Database
 
-`PostgreSQL`
+<p>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+</p>
 
 ### Computer Vision
 
-`OpenCV` `MediaPipe`
+<p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv">
+
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge">
+
+</p>
 
 ### Tools
 
-`Git` `GitHub` `VS Code`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Projects
 
 ## 🟣 Gojo Hollow Purple
 
-A real-time anime-inspired VFX project built using OpenCV and MediaPipe.
+> Real-time anime-inspired VFX using Python, OpenCV & MediaPipe.
 
-### Highlights
+✨ Features
 
 - Gesture-controlled interactions
 - Real-time hand tracking
-- Procedural plasma rendering
+- Plasma rendering
 - Particle system
+- Motion trails
 - Projectile animation
 - Cinematic explosion
 
-🔗 https://github.com/Namkar255/Gojo-Hollow-Purple
+🔗 Repository
+
+https://github.com/Namkar255/Gojo-Hollow-Purple
 
 ---
 
 ## 🚀 CP Tracker
 
-A full-stack application to manage coding goals, contests, and competitive programming progress.
+A full-stack competitive programming dashboard to manage coding goals, contests and progress.
 
-**Tech**
+**Tech Stack**
 
-Node.js • Express • PostgreSQL • JavaScript
+Node.js • Express • PostgreSQL • HTML • CSS • JavaScript
 
-🔗 https://github.com/Namkar255/CP-Tracker
+🔗 Repository
 
----
-
-# 🏅 Competitive Programming
-
-| Platform | Achievement |
-|-----------|-------------|
-| Codeforces | Pupil (1300+) |
-| CodeChef | ⭐⭐ |
-| LeetCode | 400+ Problems |
-| AtCoder | Brown |
+https://github.com/Namkar255/CP-Tracker
 
 ---
 
-# 📈 GitHub Activity
+# 📌 What I'm Working On
+
+- 🚀 Building Full Stack Projects
+- 🧠 Solving DSA Problems
+- 👁️ Exploring Computer Vision
+- 🌍 Contributing to Open Source
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Namkar255&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Namkar255&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🎯 Current Focus
-
-```text
-✔ Data Structures & Algorithms
-✔ Full Stack Development
-✔ Computer Vision
-✔ Open Source
-✔ Building Better Projects
-```
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/Namkar255">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
 <a href="https://www.linkedin.com/in/namkar-jindal-0879343a8/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Namkar255">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://leetcode.com/u/namkar_jindal/">
@@ -146,8 +181,10 @@ Node.js • Express • PostgreSQL • JavaScript
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 Philosophy
 
-*"Always learning. Always building."*
+> **"Code every day, learn continuously, and build projects that solve real problems."**
+
+⭐ Thanks for visiting my profile!
 
 </div>
